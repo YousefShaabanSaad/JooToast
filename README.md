@@ -34,9 +34,9 @@ Step 2. Add the dependency
 
 Step 3. In Activity
 
-           MyToast.setShortToast(this,"This is short Toast", MyToast.SUCCESS);
+           JooToast.setShortToast(this,"This is short Toast", JooToast.SUCCESS);
 
-           MyToast.setLongToast(this,"This is long Toast", MyToast.FAIL);
+           JooToast.setLongToast(this,"This is long Toast", JooToast.FAIL);
 
 # For contact
  * +201142747343
